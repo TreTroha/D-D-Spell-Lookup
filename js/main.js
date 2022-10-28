@@ -14,7 +14,10 @@ function getFetch(){
         while (damageLi.firstChild) {
             damageLi.removeChild(damageLi.firstChild);
         }
-    
+        
+        document.querySelector("#spellName").innerText = data.name
+        document.querySelector("#spellDesc").innerText = data.desc[0]
+        document.querySelector("#spellRange").innerText = "Spell Range: " + data.range
         
         let classy = document.getElementById('class');
         while (classy.firstChild) {

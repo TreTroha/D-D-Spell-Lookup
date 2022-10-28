@@ -27,6 +27,13 @@ h2 {
   text-decoration: underline;
 }
 
+h3 {
+  color: white;
+  font-size: 20px;
+  text-align: center;
+  padding: 0 20px;
+}
+
 ul {
   list-style: none;
 }
