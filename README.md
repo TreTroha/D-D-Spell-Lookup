@@ -1,9 +1,8 @@
 # D&D Damage Spell Lookup
-Have you ever been playing a game of D&D and wondered, "Wait how much damage does that spell do again?". Instead of looking like a goober, pull up this handy-dandy D&D spell lookup and get the game back underway!
+Have you ever been playing a game of D&D and wondered, "Wait how much damage does that spell do again?", "What classes are allowed to use that", "What's the range on that?". Instead of looking like a goober, pull up this handy-dandy D&D spell lookup and get the game back underway!
 
-**Link to project:** http://recruiters-love-seeing-live-demos.com/
 
-![alt tag](http://placecorgi.com/1200/650)
+![alt tag](_G__100Devs_D-D-Spell-Lookup-main_D-D-Spell-Lookup-main_index.html.png)
 
 ## How It's Made:
 
